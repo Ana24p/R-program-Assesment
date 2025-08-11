@@ -1,2 +1,2 @@
 # R-Program-Assesment
-r programs from labbook tybca
+Solved Question's of R program from Practica
